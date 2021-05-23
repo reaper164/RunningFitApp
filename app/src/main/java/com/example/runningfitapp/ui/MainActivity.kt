@@ -1,8 +1,9 @@
-package com.example.runningfitapp
+package com.example.runningfitapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import com.example.runningfitapp.R
 import com.example.runningfitapp.database.RunDAO
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
